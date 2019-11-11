@@ -13,13 +13,13 @@ Web3.js v1.2.1
 
 To install, download or clone the repo, then:
 
-`npm install`
-`sudo truffle compile`
-`sudo truffle migrate --reset --network development_test_network`
-`sudo truffle test test/flightSurety.js --network development_test_network`
-`sudo truffle test test/oracles.js --network development_test_network`
-`npm run server`
-`npm run dapp`
+`npm install` <br />
+`sudo truffle compile` <br />
+`sudo truffle migrate --reset --network development_test_network` <br />
+`sudo truffle test test/flightSurety.js --network development_test_network` <br />
+`sudo truffle test test/oracles.js --network development_test_network` <br />
+`npm run server` <br />
+`npm run dapp` <br />
 
 ## Develop Client
 
