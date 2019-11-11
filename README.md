@@ -15,6 +15,7 @@ To install, download or clone the repo, then:
 
 `npm install` <br />
 `sudo truffle compile` <br />
+`ganache-cli -l 999999999999 -m "candy maplcake sugar puddi cream honey rich smooth crumble sweet treat" -e 10000 -a 30`  <br />
 `sudo truffle migrate --reset --network development_test_network` <br />
 `sudo truffle test test/flightSurety.js --network development_test_network` <br />
 `sudo truffle test test/oracles.js --network development_test_network` <br />
